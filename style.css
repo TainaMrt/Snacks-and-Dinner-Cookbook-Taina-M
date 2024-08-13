@@ -1,0 +1,22 @@
+.nav_bar{display:flex; 
+        justify-content:center;
+        
+}
+p{border-style:inset;
+ padding-left: 30px;
+ padding-right: 30px;
+ background: #d47b59}
+
+body {background: #5a3d39}
+h1{color:#97594c}
+h2{color:#af685a}
+p{color:#f5b77a}
+a{color:#f5b77a}
+h4{color:#af685a}
+
+img {
+ padding:5px;
+   border:inset;
+   border-width:3px;
+   border-color:#f5b77a;
+  background:#d47b59}
