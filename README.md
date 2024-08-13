@@ -1,0 +1,1 @@
+This is a website I created in my 9th grade coding class! We focused on learning how to buld the general structure of a webiste, how to stylize the website, and messed around with the different thinsg we could do with p and h tags. 
